@@ -82,7 +82,8 @@
 
 <p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1rem;">
   <img src="https://github-readme-stats.vercel.app/api?username=Ck07860786&show_icons=true&theme=radical&count_private=true" style="max-width: 100%; width: 400px;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ck07860786&theme=radical" style="max-width: 100%; width: 400px;" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ck07860786&theme=radical&count_private=true" style="max-width: 100%; width: 400px;" />
 </p>
 
 ---
