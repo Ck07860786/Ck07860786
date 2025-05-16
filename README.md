@@ -1,6 +1,6 @@
-<!-- Banner -->
+<!-- Banner: Cartoon Coding GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Coding Animation" width="800"/>
+  <img src="https://media.giphy.com/media/3o7aD6oKda9rI4gtaY/giphy.gif" alt="Cartoon Coding Animation" width="800"/>
 </p>
 
 <h1 align="center">Hey there! 👋 I'm [Your Name]</h1>
@@ -15,7 +15,7 @@
 ### 🌟 About Me
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L95W4wv8nnb9K/giphy.gif" alt="Excited Programmer" width="300"/>
+  <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" alt="Cartoon Programmer" width="300"/>
 </p>
 
 - 🎯 Passionate Full Stack Developer building **fast**, **modern**, and **scalable** web applications.  
