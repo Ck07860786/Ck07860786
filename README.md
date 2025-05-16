@@ -10,7 +10,11 @@
 
 <!-- About Me Section -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=450&lines=I+love+building+things+that+live+on+the+web!;Clean+Code+%E2%9C%94%EF%B8%8F+Scalable+Apps+%F0%9F%9A%80;MERN+%7C+TypeScript+%7C+Next.js+%7C+MongoDB" alt="Typing SVG" style="max-width: 100%; height: auto;" />
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&width=650&lines=I+love+building+things+that+live+on+the+web!;Clean+Code+%E2%9C%94%EF%B8%8F+Scalable+Apps+%F0%9F%9A%80;"
+    alt="Typing SVG"
+    style="max-width: 100%; height: auto;"
+  />
 </div>
 
 <!-- Responsive Two-Column Section -->
