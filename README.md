@@ -1,83 +1,84 @@
-<!-- Top Banner: Cartoon Coding Loop -->
+<!-- Banner -->
 <p align="center">
-  <img src="https://media.giphy.com/media/L0uffmoxb3GSI/giphy.gif" alt="Cartoon Coding Loop" width="800"/>
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Coding Animation" width="800"/>
 </p>
 
-<!-- Name + Marquee -->
-<h1 align="center">
-  <marquee behavior="alternate" scrollamount="10" style="width:80%; color:#FF6FD8; font-size:2.5em;">
-    👋 Hello, I’m [Your Name]! 👋
-  </marquee>
-</h1>
-<h3 align="center">🚀 Full-Stack Dev | MERN | TypeScript | TailwindCSS | Code Artist</h3>
+<h1 align="center">Hey there! 👋 I'm [Your Name]</h1>
+<h3 align="center">🚀 Full Stack Developer | MERN | TypeScript | Clean Code Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&center=true&width=700&lines=Crafting+beautiful+web+experiences.;Writing+scalable+and+clean+code.;Always+learning+new+tech!"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&width=600&lines=I+love+building+things+that+live+on+the+web!;Clean+Code+%E2%9C%94%EF%B8%8F+Scalable+Apps+%F0%9F%9A%80;MERN+%7C+TypeScript+%7C+Next.js+%7C+MongoDB" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🌈 What I Do
+### 🌟 About Me
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Frontend-🎨-gradient?style=for-the-badge&logo=react&logoColor=white&gradient=blue,cyan"/>
-  <img src="https://img.shields.io/badge/Backend-🔧-gradient?style=for-the-badge&logo=node.js&logoColor=white&gradient=green,teal"/>
-  <img src="https://img.shields.io/badge/Styling-💅-gradient?style=for-the-badge&logo=tailwind-css&logoColor=white&gradient=indigo,cyan"/>
-  <img src="https://img.shields.io/badge/Database-🗄️-gradient?style=for-the-badge&logo=mongodb&logoColor=white&gradient=green,olive"/>
-  <img src="https://img.shields.io/badge/Tools-⚙️-gradient?style=for-the-badge&logo=github&logoColor=white&gradient=purple,pink"/>
+  <img src="https://media.giphy.com/media/L95W4wv8nnb9K/giphy.gif" alt="Excited Programmer" width="300"/>
+</p>
+
+- 🎯 Passionate Full Stack Developer building **fast**, **modern**, and **scalable** web applications.  
+- 🧠 Always learning, always improving. Big believer in **clean code** and **efficient systems**.  
+- 💼 Currently open to **internships** and **freelance opportunities**.  
+- 🌐 Let’s build the next big thing together!
+
+---
+
+### 💻 Tech Stack
+
+<p align="center">
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+</p>
+<p align="center">
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+</p>
+<p align="center">
+  <!-- Tools & Others -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
 </p>
 
 ---
 
-### 🔥 Projects Showcase
+### 🔥 My GitHub Stats
+
 <p align="center">
-  <a href="https://github.com/your-username/project-1">
-    <img src="https://media.giphy.com/media/3o7aD4V5cH5XaHcGys/giphy.gif" alt="Project 1" width="250"/>
-  </a>
-  <a href="https://github.com/your-username/project-2">
-    <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Project 2" width="250"/>
-  </a>
-  <a href="https://github.com/your-username/project-3">
-    <img src="https://media.giphy.com/media/l2JehQ2GitHGdVG9y/giphy.gif" alt="Project 3" width="250"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ck07860786&show_icons=true&theme=radical&count_private=true" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ck07860786&theme=radical" width="45%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Ck07860786&theme=rogue&area=true" alt="Contribution Graph" width="95%" />
 </p>
 
 ---
 
-### 📊 GitHub Stats & Top Langs
+### 📫 Connect with Me
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ck07860786&show_icons=true&theme=react&count_private=true&hide_border=true" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ck07860786&layout=compact&theme=react&hide_border=true" width="45%" />
-</p>
-
----
-
-### 💌 Let’s Connect
-<p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:your@email.com">
-    <img src="https://img.shields.io/badge/Email-Send-red?style=for-the-badge&logo=gmail" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://yourportfolio.com/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel" alt="Portfolio"/>
+  <a href="https://yourportfolio.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
 
 ---
 
-### 🌟 Support & Visitors
-
 <p align="center">
-  <a href="https://github.com/sponsors/your-username">
-    <img src="https://img.shields.io/badge/Sponsor-❤️-ff69b4?style=for-the-badge&logo=github-sponsors" alt="Sponsor"/>
-  </a>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=Ck07860786.Ck07860786" alt="Visitor Count"/>
-</p>
-
----
-
-<p align="center">
-  Made with 💖 &amp; ☕ by <strong>[Your Name]</strong>
+  Made with ❤️ and ☕ by <strong>[Your Name]</strong>
 </p>
