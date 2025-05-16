@@ -27,8 +27,8 @@
 - 🌐 Let’s build something amazing together!
 
    </td>
-   <td width="40%" align="center">
-     <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b70ebfc910cd94b5b2a72.gif" width="250" alt="Coding Cartoon" /><img src="https://www.icegif.com/wp-content/uploads/tony-stark-icegif-6.gif" alt="Excited Programmer" width="400"/>
+   <td width="10%" align="center">
+     <img src="https://www.icegif.com/wp-content/uploads/tony-stark-icegif-6.gif" alt="Excited Programmer" width="300"/>
    </td>
   </tr>
 </table>
