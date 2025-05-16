@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hey there! 👋 I'm Chotu Kumar</h1>
-<h3 align="center">🚀 Full Stack Developer | MERN | TypeScript | Clean Code Enthusiast</h3>
+<h3 align="center">Full Stack Developer | Clean Code Enthusiast</h3>
 
 <br/>
 
@@ -86,7 +86,8 @@
 <h2 align="center">🧠 Year-Wise GitHub Contribution Heatmap</h2>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/2196f3/Ck07860786" alt="Chotu Kumar's GitHub Contribution Graph" width="100%" />
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ck07860786&theme=github-compact&count_private=true&hide_border=true&area=true&area_color=2196f3&line=2196f3&point=0e1117&bg_color=0d1117&title_color=ffffff&custom_title=📈%20GitHub%20Contribution%20Graph" width="100%" />
+
 </p>
 
 <p align="center">
