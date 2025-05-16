@@ -80,13 +80,18 @@
 
 ### 📊 GitHub Stats
 
+
 <p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1rem;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ck07860786&show_icons=true&theme=radical&count_private=true" style="max-width: 100%; width: 400px;" />
+  
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ck07860786&theme=radical&count_private=true" style="max-width: 100%; width: 400px;" />
 </p>
 
 ---
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ck07860786&theme=darkhub&no-frame=true&column=6" alt="GitHub Trophies" />
+</p>
 
 <h2 align="center">🧠 Year-Wise GitHub Contribution Heatmap</h2>
 
