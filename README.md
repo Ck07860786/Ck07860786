@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" alt="Coding Animation" width="800"/>
+  <img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" alt="Coding Animation" width="300"/>
 </p>
 
 <h1 align="center">Hey there! 👋 I'm [Your Name]</h1>
